@@ -24,6 +24,15 @@ from there i can go to filled to view the icons. they are installed on my projec
                 - go back using icon in upper left
                 - drag material design Icons over to Udemy project
 
-another way to install plugins is to select the community tab.
+another way to install plugins is to select the community tab. I can pick from the optins I see below or search plugins in the search box.
 
-3:03
+                - search and install 'cover status' plugin.
+
+this plugin will allow me to make cover pages very quickly.
+
+                - in my Udemy project create a new design file named test plugin
+                - Help button > keyboard shortcuts
+                - to use plugin search menu:
+                        'ctrl + /' then search cover Status
+                - fill out text and press create
+                - on the page it created , right click the box surrounding the text and select 'set it to thumbnail'.
