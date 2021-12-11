@@ -36,3 +36,13 @@ this plugin will allow me to make cover pages very quickly.
                         'ctrl + /' then search cover Status
                 - fill out text and press create
                 - on the page it created , right click the box surrounding the text and select 'set it to thumbnail'.
+
+39. Affinity and mind mapping.
+
+Exercize for organizing ideas apout a product
+
+40. User Persona
+
+Organizing information about the target audience
+
+41. Customer journey mapping
