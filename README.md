@@ -69,3 +69,5 @@ Capterra is a site for compairing software, we use it in this example for sample
 Examples in figma notes project
 
 43. Design Strategy
+
+Examples in figma notes project
