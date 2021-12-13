@@ -88,3 +88,12 @@ Dominance is achieved by emphasizing on one design element. Dominance grabs user
 
         - a primary buttion like Add should be filled as it draws more imphasis.
         - a secondary button like cancel should just be text or outlined to be deemphasize
+
+47. Negative Space and Complexity
+
+Negative space is created when unnessessary design elements are removed, and the area of the layout that is left empty to increase contrast.
+
+51.   Psychological Bariar and Proportion
+
+          golden ration Proportion:
+              .618
