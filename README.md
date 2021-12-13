@@ -64,10 +64,20 @@ i can also save a local copy for sharing
 
 Capterra is a site for compairing software, we use it in this example for sample images
 
-42. User Flows
+42.   User Flows
 
-Examples in figma notes project
+          Examples in figma notes project
 
-43. Design Strategy
+43.   Design Strategy
 
-Examples in figma notes project
+          Examples in figma notes project
+
+44.   Spirit Planning
+
+the MSN framework is the way I can organize and prioritize all the information gathered in previous lessons
+
+# SEC 5 User Interface Design
+
+45. Unity and Similarity
+
+Unity is created when all design elements carry the same weight and look harmonized. When design elements in a composition belong together.
