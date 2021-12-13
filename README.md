@@ -81,3 +81,10 @@ the MSN framework is the way I can organize and prioritize all the information g
 45. Unity and Similarity
 
 Unity is created when all design elements carry the same weight and look harmonized. When design elements in a composition belong together.
+
+46. Dominance and working memory
+
+Dominance is achieved by emphasizing on one design element. Dominance grabs users attention to one design element on the webpage.
+
+        - a primary buttion like Add should be filled as it draws more imphasis.
+        - a secondary button like cancel should just be text or outlined to be deemphasize
