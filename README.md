@@ -37,12 +37,35 @@ this plugin will allow me to make cover pages very quickly.
                 - fill out text and press create
                 - on the page it created , right click the box surrounding the text and select 'set it to thumbnail'.
 
+after this exercize we delete this project
+
 39. Affinity and mind mapping.
 
-Exercize for organizing ideas apout a product
+Exercize for organizing ideas about a product. The goal is map out as much of an idea as possible.
+
+        help menu > keyboard shortcuts
+
+Keyboard shortcuts!!!
 
 40. User Persona
 
 Organizing information about the target audience
 
+        to save User persona as a png:
+            -group the selection
+            -right click and copy as png
+            -open a new design file
+            -paste png
+            -export
+
+i can also save a local copy for sharing
+
 41. Customer journey mapping
+
+Capterra is a site for compairing software, we use it in this example for sample images
+
+42. User Flows
+
+Examples in figma notes project
+
+43. Design Strategy
