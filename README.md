@@ -97,3 +97,54 @@ Negative space is created when unnessessary design elements are removed, and the
 
           golden ration Proportion:
               .618
+
+52.   Figma Essential Behaviors
+
+                - we start by opening a design file instead of a fig-jam file.
+                - Duplicate selection:
+                              ctrl + D
+
+If we try to export our doughnut it shows as 2 items to be exported which isint what we want. Before we export, we need to group the selection.
+
+                - Group selection:
+                               ctrl + G
+
+Now when we export , it is as a single item.
+
+If we undo that grouping theres another way we can achieve this
+
+        - wrap the parts of the doughnut in a frame
+                - the frame acts as a group as well
+
+difference between group and frame?
+
+        with a grouping the position of the object adapts to changing border size
+                - stays centered
+                - grows with box
+
+        with frames the movement dosent adjust the content and the frame can even cover some of it up.
+                - moves based on alignment
+                - dosent change size
+
+        download 'sort layers' from the plugin community
+
+after duplicating the doughnut in a frame 3 times we select them all then open the plugin menu like so: ctrl + /
+
+                - type in sort layers sort by x position
+                - with the boxes selected press 'ctrl + R' to rename the file
+                - in rename to box enter '$n '
+
+this will name the frames by number starting with one based on where they are on the x axis
+
+                - zoom to selection:
+                        shift + 2
+
+we can stop the frame from clipping by checking the box
+
+                - next we create another page
+
+can adjust layer passthrough for transparency
+
+on the color panel we can turn colors from solid to gradients in the upper left hand corner
+
+                - install lorem
