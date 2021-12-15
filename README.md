@@ -149,4 +149,8 @@ on the color panel we can turn colors from solid to gradients in the upper left 
 
                 - install lorem
 
-53. Figma Core Engine Concepts
+53.   Figma Core Engine Concepts
+
+                  - download 'replace layers' plugin from community
+
+2:55
