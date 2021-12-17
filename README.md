@@ -151,6 +151,23 @@ on the color panel we can turn colors from solid to gradients in the upper left 
 
 53.   Figma Core Engine Concepts
 
-                  - download 'replace layers' plugin from community
+in a new design file make 2 pages:
 
-2:55
+                -prototype
+                -components
+
+draw 2 squares and select them both and select auto layout
+
+                        - download 'replace layers' plugin from community
+                        - download ' reverse layer order' also.
+
+      to reverse the layer order:
+
+                      - select the layer
+                      - press enter
+                      - ctrl + /
+                      - reverse order layer
+
+      what was first is now last.
+
+we can adjust the padding on the left when main is selected
