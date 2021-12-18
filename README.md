@@ -153,21 +153,29 @@ on the color panel we can turn colors from solid to gradients in the upper left 
 
 in a new design file make 2 pages:
 
-                -prototype
-                -components
+                - prototype
+                - components
 
-draw 2 squares and select them both and select auto layout
+draw 3 squares of different shades and select them all and press the '+' on auto layout
 
-                        - download 'replace layers' plugin from community
-                        - download ' reverse layer order' also.
+                - duplicate the set and surround all 6 in a autolayout withe '+'
+                - I can select one of the parents and duplicate it within the main autolayout
 
-      to reverse the layer order:
+now we have a main autolayout box containint 3 parents that each contain 3 child squares
 
-                      - select the layer
-                      - press enter
-                      - ctrl + /
-                      - reverse order layer
+                - download 'replace layers' plugin from community
 
-      what was first is now last.
+we can select a parent and reverse the order of the squares with:
+
+                - download ' reverse layer order' also.
+
+to reverse the layer order:
+
+                - select the layer
+                - press enter
+                - ctrl + /
+                - reverse order layer
+
+what was first is now last.
 
 we can adjust the padding on the left when main is selected
