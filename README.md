@@ -161,7 +161,7 @@ draw 3 squares of different shades and select them all and press the '+' on auto
                 - duplicate the set and surround all 6 in a autolayout withe '+'
                 - I can select one of the parents and duplicate it within the main autolayout
 
-now we have a main autolayout box containint 3 parents that each contain 3 child squares
+now we have a main autolayout box containing 3 parents that each contain 3 child squares
 
                 - download 'replace layers' plugin from community
 
@@ -179,3 +179,12 @@ to reverse the layer order:
 what was first is now last.
 
 we can adjust the padding on the left when main is selected
+
+        alt + L selects the main.
+        then select enter to select the 3 parents
+
+now I can adjust space between the children of each parent because the parents are all individually selected. The space between items and the padding in this case refers to within the parents, not between them.
+
+        now i can 'shift + enter to select the main agan and adjust padding and space between parents.
+
+3:58
