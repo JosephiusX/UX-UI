@@ -235,5 +235,24 @@ now the changes i make in the component are reflected in its instance. I can dem
 now when I duplicate the instances inside main the box stretches to fit
 
                 - cut and paste the parent component from component to prototype
+                to add space between the children horizontally:
+                        - select parent component
+                        - set 'specing between items'
 
-got stuck at 12:47
+to do so vertically, make space between the parents by selecting the parents container and adjusting 'space between'
+
+                - turn component exercize back to hug
+                - name it window
+                - turn it into a component
+
+right now we have one parent component and one window component that contains all the parents.
+
+if I duplicate an instance of window and place it somewhere else then select it, there is a component icon in the name of the component that will take me to the root component
+
+                - create and select a new instance of window:
+                        alt + drag from window
+
+                - detatch it:
+                        ctrl + alt + b
+
+14:16
