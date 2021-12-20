@@ -249,10 +249,30 @@ right now we have one parent component and one window component that contains al
 
 if I duplicate an instance of window and place it somewhere else then select it, there is a component icon in the name of the component that will take me to the root component
 
+lets say I want to make a version of the window component in a different color
+
                 - create and select a new instance of window:
                         alt + drag from window
 
                 - detatch it:
                         ctrl + alt + b
 
-14:16
+this turns the instance of window frame
+
+                - in the window we can change all the colors under 'selection colors'
+
+i can select a parent in window and add its color changes to its parent component using the 3 dots next to the symbol that takes me to the parent component when the parent within window is selected:
+
+                'push overrides to main component'
+
+not usually a good idea so we ctrl + z to undo that
+
+                - delete all but component and window
+                - make window a component
+                - name them window 1 and window 2
+
+when we hilight them both we can select 'combine as variants'
+
+                - set the properties for each part of window as toggle and each instance one false and one true.
+
+now when I create an instance I have the option to toggle between variants
