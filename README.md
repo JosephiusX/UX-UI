@@ -187,4 +187,53 @@ now I can adjust space between the children of each parent because the parents a
 
         now i can 'shift + enter to select the main agan and adjust padding and space between parents.
 
-3:58
+        - now we adjust the width between parents and as well as between children to 50
+
+we can click on the main and inspect to see the css for the main box(including flexbox). I can also click between children to see space between
+
+        select main then design in the upper right hand corner to make changes to the apperance such as:
+                - fill: the background
+                - Effects > Drop Shadows: box shadow
+                        add padding to main to see the box shadow more clearly
+                - layer passthrough: transparency
+
+now if I pull one of the parents out of the frame it adjusts automatically. I can even take a parent and nest it within another parent and move it around inside.
+
+currently if I try to expand main the contents dont center or grow with it. under 'Resizing' by default the horizontal and vertical axies are set to 'hug content' which is why it adapts to changes, but when I expand it , it is set to fixed width at the width I set it at.
+
+                to center the children in a parent when mains size changes:
+                        - select the parent and under 'sizeing' select option for 'hug content'.
+                        - under 'auto layout' useing the 'allignment and padding' button set alignment
+
+if we repeat this process with all the parents setting one alignment to left, another to center, and the final one to right, we can see how this works by adjusting the size of main and seeing how each parent reacts differently.
+
+                duplicate one of the parents and inside main then expand main again and change its alignment from 'packed' to space between after centering
+
+Change Name of main to 'Auto Layout Exercize'
+
+# Components (9 minutes into video)
+
+duplicate previous exercize for a starting point and label it 'Components Exercize'.
+
+currently our parents are frames and therefore are not reusable.
+
+                change parent from a frame to a Component:
+                        - drag a parent out of main
+                        - select it and selct the 'component' icon above
+                                now the icon of the parent turns from the frame symbol to the diamond(component symbol)
+                        - cut the new component from prototype page and paste it in component.
+
+Create an instance of the component by holding 'alt' while dragging from the component
+
+now the changes i make in the component are reflected in its instance. I can demonstrate this by cutting the instance and parent out of components and paste it into prototypes and make changes in components to see if they are reflected in prototype
+
+                - in prototypes delete all other parents becides the instance
+                - duplicate the instance until it overflows
+                - in 'Resizing' select 'Hug Contents' to adjust vertically
+                        same can be done for the horizontal axis
+
+now when I duplicate the instances inside main the box stretches to fit
+
+                - cut and paste the parent component from component to prototype
+
+got stuck at 12:47
